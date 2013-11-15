@@ -13,4 +13,10 @@ I use it like this:
 After running this tool be sure to review and test the chagnes it made. There will
 still be hand editing required. You've been warned.
 
+Where it fails:
+
+    - If you have embedded <style>'s in your HTML with icon-* classes, this script
+      will not migrate them correctly.
+
 Pull requests welcome!
+
