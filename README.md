@@ -22,7 +22,7 @@ Where it fails
 * If you have embedded `<style>`s in your HTML with `icon-*` classes, this script
   will not migrate them correctly.
 
-Contirbuting
+Contributing
 ------------
 
 Pull requests welcome!
